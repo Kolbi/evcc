@@ -130,8 +130,9 @@
       "currency": "Valuta",
       "current": "Stroomsterkte",
       "currentRange": "Stroomsterkte",
+      "curtailed": "Teruglevering beperkt",
       "detected": "Gedetecteerd",
-      "dimmed": "Gedimd",
+      "dimmed": "Verbruik gelimiteerd",
       "enabled": "Ingeschakeld",
       "energy": "Energie",
       "events": "Gebeurtenissen",
@@ -727,11 +728,13 @@
       "generic": "Generieke integraties",
       "grid": {
         "description": "Electriciteits-prijzen voor consumptie van het net. Gebruikt om de werkelijke laadkosten uit te rekenen, en voor het laden van de auto of thuis-accu en het inschakelen van verwarming tegen de beste prijs.",
-        "titleAdd": "Electriciteits tarief toevoegen voor import"
+        "titleAdd": "Electriciteits tarief toevoegen voor import",
+        "titleEdit": "Net-import tarieven aanpssen"
       },
       "option": {
         "co2": "CO₂-voorspelling toevoegen",
         "feedIn": "Net-export tarief toevoegen",
+        "planner": "Planner voorspelling toevoegen",
         "solar": "PV-voorspelling toevoegen"
       },
       "planner": {
